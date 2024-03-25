@@ -1,0 +1,17 @@
+.div-2col {
+  background-color: #9d02d9;
+  min-height: 100vh;
+}
+
+.divinput01 {
+  width: 400px !important;
+}
+
+.divinput02 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn-px {
+  background-color: #DB0BC7;
+}
